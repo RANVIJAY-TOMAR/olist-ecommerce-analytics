@@ -41,6 +41,8 @@ End-to-end data analytics project on the Olist Brazilian E-Commerce dataset (100
 - day6_advanced_sql.sql
 - day5_eda.ipynb
 - olist.pbix
+  
+Power BI Dashboard: [View Dashboard](https://drive.google.com/file/d/10U2J2RDh3_T262cAgwgPMKED2Dt5Q1Z7/view?usp=sharing)
 
 ## Author
 Ranvijay Singh Tomar
